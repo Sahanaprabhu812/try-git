@@ -1,2 +1,2 @@
 my first try-git project
-version1 
+version2
